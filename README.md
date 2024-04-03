@@ -1,6 +1,5 @@
 # Laporan: Client-Server-TCP-Model
-NAMA : Emmanuel Satria Anugrah Dewangga
-  NIM : 1203220132
+NAMA : Emmanuel Satria Anugrah Dewangga  NIM : 1203220132
 
 ## Pendahuluan
 Dokumen ini akan menjelaskan tentang sistem klien-server yang menggunakan socket TCP untuk komunikasi. Terdiri dari dua bagian utama, yaitu sisi server dan sisi klien. Tujuan utamanya adalah memungkinkan klien untuk berkomunikasi dengan server dan berinteraksi dengan sistem file server.
